@@ -1,2 +1,3 @@
-# gb_learn_html_css
-learn html &amp; css on geekbrains
+# HTML/CSS. Интерактивный курс
+### 1. Основные понятия в веб-разработке
+### 2. Основы языка разметки документов HTML
